@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525022316 source:c:\users\user\desktop\bit\main.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<windows.h>
+
+1523932024 c:\users\user\desktop\bit\bit.h
+
+1523932115 source:c:\users\user\desktop\bit\bit.cpp
+	"bit.h"
+	<iostream>
+
